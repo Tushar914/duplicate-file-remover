@@ -12,4 +12,4 @@ Removes duplicate files
 
 ## Executable built using
 
-[pyinstaller] http://www.pyinstaller.org
+[pyinstaller](http://www.pyinstaller.org)

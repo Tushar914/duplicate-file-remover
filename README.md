@@ -4,11 +4,13 @@ Removes duplicate files
 
 ## Prerequisites
 
+### To execute the script
+
 [Tkinter](https://wiki.python.org/moin/TkInter)
 
 [send2trash](https://pypi.python.org/pypi/Send2Trash)
 
-(only required to run the script)
+### Standalone executable provided which doesn't require python installed
 
 ## Executable built using
 

@@ -1,6 +1,15 @@
-# duplicate-file-remover
+# Duplicate file remover
+
 Removes duplicate files
 
-### Prerequistes
+## Prerequisites
 
-Tkinter and send2trash
+[Tkinter](https://wiki.python.org/moin/TkInter)
+
+[send2trash](https://pypi.python.org/pypi/Send2Trash)
+
+(only required to run the script)
+
+## Executable built using
+
+[pyinstaller] http://www.pyinstaller.org
